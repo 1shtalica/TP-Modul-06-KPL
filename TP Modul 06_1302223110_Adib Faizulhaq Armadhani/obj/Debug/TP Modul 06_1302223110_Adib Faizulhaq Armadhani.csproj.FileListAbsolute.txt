@@ -1,0 +1,7 @@
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\bin\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.exe.config
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\bin\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\bin\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.pdb
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\obj\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.csproj.AssemblyReference.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\obj\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.csproj.CoreCompileInputs.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\obj\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 06\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\TP Modul 06_1302223110_Adib Faizulhaq Armadhani\obj\Debug\TP Modul 06_1302223110_Adib Faizulhaq Armadhani.pdb
