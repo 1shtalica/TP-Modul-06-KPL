@@ -10,10 +10,23 @@ namespace TP_Modul_06_1302223110_Adib_Faizulhaq_Armadhani
     {
         static void Main(string[] args)
         {
-            SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract-Adib Faizulhaq Armadhani");
-            video.increasePlayCount(8);
-            video.printVideoDetails();
+            try
+            {
+                SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract-Adib Faizulhaq Armadhani");
 
+                for (int i = 5 - 1; i >= 0; i--)
+                {
+                    video.increasePlayCount(300000000);
+                }
+
+                video.printVideoDetails();
+            }
+
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error");
+            }
+            Console.ReadLine();
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,8 @@ namespace TP_Modul_06_1302223110_Adib_Faizulhaq_Armadhani
 
         internal SayaTubeVideo(string videoTitle)
         {
+            Contract.Requires(videoTitle.Length <= 100 && videoTitle != null);
+
             title = videoTitle;
 
             playCount = 0;
@@ -23,7 +26,19 @@ namespace TP_Modul_06_1302223110_Adib_Faizulhaq_Armadhani
 
         public void increasePlayCount(int play)
         {
-            playCount += play;
+            Contract.Requires(play >= 0 && play <= 10000000);
+
+            try
+            {
+                checked
+                {
+                    playCount += play;
+                }
+            }
+            catch (OverflowException ex)
+            {
+                Console.WriteLine("Error");
+            }
         }
 
         public void printVideoDetails()
